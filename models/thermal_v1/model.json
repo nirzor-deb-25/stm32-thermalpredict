@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "model_type": "ridge_temperature_change",
+  "sample_interval_ms": 1000,
+  "history_seconds": 30,
+  "forecast_horizon_seconds": 30,
+  "feature_order": [
+    "temperature_c",
+    "change_5s_c",
+    "change_15s_c",
+    "change_30s_c"
+  ],
+  "feature_center": [
+    27.821480446927396,
+    0.08960893854748594,
+    0.2784636871508375,
+    0.584553072625698
+  ],
+  "feature_scale": [
+    3.1163515927471477,
+    0.5852386832264961,
+    1.6069816731510616,
+    2.815615315472835
+  ],
+  "weights": [
+    -2.171314621175969,
+    0.9390906738158393,
+    -0.527993170051534,
+    1.1442550019731081
+  ],
+  "intercept": 0.47673184357541903,
+  "ridge_alpha": 1.0,
+  "prediction": "current_c + intercept + dot((features-center)/scale, weights)",
+  "training_session": "train02",
+  "validation_session": "validation01",
+  "source_sha256": {
+    "train02_20261022_012315_710.csv": "bc3f32024e83eadd9c2749b9dcf3f5dd68fa9ab5e0b3fafb9b1bc044ace4a92b",
+    "validation01_20261022_024425_387.csv": "8dcc46c0cbf54d7c03e8e6f55f298d7664f2e325f60ea120f181d14f3e47e4c4"
+  }
+}

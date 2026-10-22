@@ -1,0 +1,31 @@
+# Firmware build output
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Backups and temporary files
+*.bak
+*.tmp
+*.log
+
+# Local editor and OS files
+.metadata/
+.settings/
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Selected data/raw recordings are intentionally tracked.

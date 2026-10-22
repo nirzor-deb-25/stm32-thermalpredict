@@ -1,0 +1,26 @@
+{
+  "model_sha256": "fbd153500b17f93892c94e202dd9c977f1f818e02bb65c3964e430df62ebb689",
+  "test_source": "test01_20261022_025631_681.csv",
+  "test_source_sha256": "222b5ab17efd515021e710783f9d263b264c8b663b9c3d088639198d69f1055f",
+  "results": [
+    {
+      "model": "persistence",
+      "examples": 357,
+      "MAE_C": 2.4624369747899157,
+      "RMSE_C": 3.0884698830468453,
+      "max_abs_error_C": 8.93
+    },
+    {
+      "model": "ridge_v2",
+      "examples": 357,
+      "MAE_C": 1.8888334620501075,
+      "RMSE_C": 2.6108612562678473,
+      "max_abs_error_C": 8.619783881134389
+    }
+  ],
+  "limitations": [
+    "One test recording with two planned warming periods.",
+    "Forecast examples overlap and are correlated.",
+    "Hand-warming demonstration, not industrial validation."
+  ]
+}

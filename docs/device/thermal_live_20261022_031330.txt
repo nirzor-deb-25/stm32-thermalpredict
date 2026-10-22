@@ -1,0 +1,184 @@
+# THERMAL_SELFTEST model=fbd153500b17f938 cases=1072 failures=0 tolerance_C=1e-9
+# THERMAL_RUNTIME_SELFTEST checks=164 failures=0
+# ThermalPredict temperature stream v1
+# Calibration T1=28591 T2=26759 T3=50
+seq,time_ms,temperature_centi_c,status
+0,504,2007,OK
+# F history_not_ready_or_invalid
+1,1504,2007,OK
+# F history_not_ready_or_invalid
+2,2504,2006,OK
+# F history_not_ready_or_invalid
+3,3504,2006,OK
+# F history_not_ready_or_invalid
+4,4504,2006,OK
+# F history_not_ready_or_invalid
+5,5504,2006,OK
+# F history_not_ready_or_invalid
+6,6504,2007,OK
+# F history_not_ready_or_invalid
+7,7504,2007,OK
+# F history_not_ready_or_invalid
+8,8504,2006,OK
+# F history_not_ready_or_invalid
+9,9504,2006,OK
+# F history_not_ready_or_invalid
+10,10504,2005,OK
+# F history_not_ready_or_invalid
+11,11504,2005,OK
+# F history_not_ready_or_invalid
+12,12504,2005,OK
+# F history_not_ready_or_invalid
+13,13504,2005,OK
+# F history_not_ready_or_invalid
+14,14504,2005,OK
+# F history_not_ready_or_invalid
+15,15504,2004,OK
+# F history_not_ready_or_invalid
+16,16504,2004,OK
+# F history_not_ready_or_invalid
+17,17504,2005,OK
+# F history_not_ready_or_invalid
+18,18504,2005,OK
+# F history_not_ready_or_invalid
+19,19504,2004,OK
+# F history_not_ready_or_invalid
+20,20504,2005,OK
+# F history_not_ready_or_invalid
+21,21504,2005,OK
+# F history_not_ready_or_invalid
+22,22504,2004,OK
+# F history_not_ready_or_invalid
+23,23504,2003,OK
+# F history_not_ready_or_invalid
+24,24504,2003,OK
+# F history_not_ready_or_invalid
+25,25504,2002,OK
+# F history_not_ready_or_invalid
+26,26504,2003,OK
+# F history_not_ready_or_invalid
+27,27504,2002,OK
+# F history_not_ready_or_invalid
+28,28504,2002,OK
+# F history_not_ready_or_invalid
+29,29504,2003,OK
+# F history_not_ready_or_invalid
+30,30504,2002,OK
+# F seq=30 time_ms=30504 current_centi_c=2002 forecast_30s_centi_c=2030
+31,31504,2002,OK
+# F seq=31 time_ms=31504 current_centi_c=2002 forecast_30s_centi_c=2027
+32,32504,2002,OK
+# F seq=32 time_ms=32504 current_centi_c=2002 forecast_30s_centi_c=2030
+33,33504,2002,OK
+# F seq=33 time_ms=33504 current_centi_c=2002 forecast_30s_centi_c=2030
+34,34504,2001,OK
+# F seq=34 time_ms=34504 current_centi_c=2001 forecast_30s_centi_c=2022
+35,35504,2002,OK
+# F seq=35 time_ms=35504 current_centi_c=2002 forecast_30s_centi_c=2030
+36,36504,2003,OK
+# F seq=36 time_ms=36504 current_centi_c=2003 forecast_30s_centi_c=2034
+37,37504,2002,OK
+# F seq=37 time_ms=37504 current_centi_c=2002 forecast_30s_centi_c=2030
+38,38504,2001,OK
+# F seq=38 time_ms=38504 current_centi_c=2001 forecast_30s_centi_c=2026
+39,39504,2001,OK
+# F seq=39 time_ms=39504 current_centi_c=2001 forecast_30s_centi_c=2029
+40,40504,2000,OK
+# F seq=40 time_ms=40504 current_centi_c=2000 forecast_30s_centi_c=2021
+41,41504,2001,OK
+# F seq=41 time_ms=41504 current_centi_c=2001 forecast_30s_centi_c=2022
+42,42504,2000,OK
+# F seq=42 time_ms=42504 current_centi_c=2000 forecast_30s_centi_c=2021
+43,43504,2000,OK
+# F seq=43 time_ms=43504 current_centi_c=2000 forecast_30s_centi_c=2025
+44,44504,2001,OK
+# F seq=44 time_ms=44504 current_centi_c=2001 forecast_30s_centi_c=2029
+45,45504,1999,OK
+# F seq=45 time_ms=45504 current_centi_c=1999 forecast_30s_centi_c=2024
+46,46504,2000,OK
+# F seq=46 time_ms=46504 current_centi_c=2000 forecast_30s_centi_c=2025
+47,47504,2000,OK
+# F seq=47 time_ms=47504 current_centi_c=2000 forecast_30s_centi_c=2028
+48,48504,1998,OK
+# F seq=48 time_ms=48504 current_centi_c=1998 forecast_30s_centi_c=2020
+49,49504,2001,OK
+# F seq=49 time_ms=49504 current_centi_c=2001 forecast_30s_centi_c=2028
+50,50504,1999,OK
+# F seq=50 time_ms=50504 current_centi_c=1999 forecast_30s_centi_c=2027
+51,51504,2000,OK
+# F seq=51 time_ms=51504 current_centi_c=2000 forecast_30s_centi_c=2028
+52,52504,1999,OK
+# F seq=52 time_ms=52504 current_centi_c=1999 forecast_30s_centi_c=2024
+53,53504,2000,OK
+# F seq=53 time_ms=53504 current_centi_c=2000 forecast_30s_centi_c=2034
+54,54504,1998,OK
+# F seq=54 time_ms=54504 current_centi_c=1998 forecast_30s_centi_c=2016
+55,55504,1999,OK
+# F seq=55 time_ms=55504 current_centi_c=1999 forecast_30s_centi_c=2027
+56,56504,2000,OK
+# F seq=56 time_ms=56504 current_centi_c=2000 forecast_30s_centi_c=2028
+57,57504,1999,OK
+# F seq=57 time_ms=57504 current_centi_c=1999 forecast_30s_centi_c=2027
+58,58504,1998,OK
+# F seq=58 time_ms=58504 current_centi_c=1998 forecast_30s_centi_c=2019
+59,59504,1999,OK
+# F seq=59 time_ms=59504 current_centi_c=1999 forecast_30s_centi_c=2030
+60,60505,1999,OK
+# F seq=60 time_ms=60505 current_centi_c=1999 forecast_30s_centi_c=2026
+61,61504,1998,OK
+# F seq=61 time_ms=61504 current_centi_c=1998 forecast_30s_centi_c=2019
+62,62504,1998,OK
+# F seq=62 time_ms=62504 current_centi_c=1998 forecast_30s_centi_c=2023
+63,63504,1997,OK
+# F seq=63 time_ms=63504 current_centi_c=1997 forecast_30s_centi_c=2021
+64,64504,1998,OK
+# F seq=64 time_ms=64504 current_centi_c=1998 forecast_30s_centi_c=2023
+65,65504,1998,OK
+# F seq=65 time_ms=65504 current_centi_c=1998 forecast_30s_centi_c=2022
+66,66504,1998,OK
+# F seq=66 time_ms=66504 current_centi_c=1998 forecast_30s_centi_c=2026
+67,67504,1997,OK
+# F seq=67 time_ms=67504 current_centi_c=1997 forecast_30s_centi_c=2022
+68,68504,1997,OK
+# F seq=68 time_ms=68504 current_centi_c=1997 forecast_30s_centi_c=2025
+69,69504,1998,OK
+# F seq=69 time_ms=69504 current_centi_c=1998 forecast_30s_centi_c=2025
+70,70504,1998,OK
+# F seq=70 time_ms=70504 current_centi_c=1998 forecast_30s_centi_c=2026
+71,71504,1998,OK
+# F seq=71 time_ms=71504 current_centi_c=1998 forecast_30s_centi_c=2026
+72,72504,1998,OK
+# F seq=72 time_ms=72504 current_centi_c=1998 forecast_30s_centi_c=2029
+73,73504,1998,OK
+# F seq=73 time_ms=73504 current_centi_c=1998 forecast_30s_centi_c=2029
+74,74505,1997,OK
+# F seq=74 time_ms=74505 current_centi_c=1997 forecast_30s_centi_c=2022
+75,75504,1998,OK
+# F seq=75 time_ms=75504 current_centi_c=1998 forecast_30s_centi_c=2025
+76,76504,1997,OK
+# F seq=76 time_ms=76504 current_centi_c=1997 forecast_30s_centi_c=2021
+77,77504,1997,OK
+# F seq=77 time_ms=77504 current_centi_c=1997 forecast_30s_centi_c=2021
+78,78504,1997,OK
+# F seq=78 time_ms=78504 current_centi_c=1997 forecast_30s_centi_c=2021
+79,79504,1997,OK
+# F seq=79 time_ms=79504 current_centi_c=1997 forecast_30s_centi_c=2025
+80,80504,1998,OK
+# F seq=80 time_ms=80504 current_centi_c=1998 forecast_30s_centi_c=2025
+81,81504,1996,OK
+# F seq=81 time_ms=81504 current_centi_c=1996 forecast_30s_centi_c=2021
+82,82504,1997,OK
+# F seq=82 time_ms=82504 current_centi_c=1997 forecast_30s_centi_c=2024
+83,83504,1996,OK
+# F seq=83 time_ms=83504 current_centi_c=1996 forecast_30s_centi_c=2020
+84,84504,1996,OK
+# F seq=84 time_ms=84504 current_centi_c=1996 forecast_30s_centi_c=2020
+85,85504,1996,OK
+# F seq=85 time_ms=85504 current_centi_c=1996 forecast_30s_centi_c=2017
+86,86504,1996,OK
+# F seq=86 time_ms=86504 current_centi_c=1996 forecast_30s_centi_c=2024
+87,87504,1996,OK
+# F seq=87 time_ms=87504 current_centi_c=1996 forecast_30s_centi_c=2020
+88,88504,1995,OK
+# F seq=88 time_ms=88504 current_centi_c=1995 forecast_30s_centi_c=2020
+89,89504,1996,OK

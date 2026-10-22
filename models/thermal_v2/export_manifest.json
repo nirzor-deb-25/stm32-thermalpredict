@@ -1,0 +1,12 @@
+{
+  "model_sha256": "fbd153500b17f93892c94e202dd9c977f1f818e02bb65c3964e430df62ebb689",
+  "header_sha256": "60f50c9de0649033e26048cc73f31cfc6290896e4541bebef9e16e00f7cec6f6",
+  "model_id": "fbd153500b17f938",
+  "numeric_type": "double",
+  "feature_order": [
+    "change_5s_c",
+    "change_15s_c",
+    "change_30s_c"
+  ],
+  "compiled_device_parity": "pending"
+}
